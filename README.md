@@ -13,7 +13,7 @@
 # Usage guide
 - Python ipfinder.py
 
-##### A Tool by Kabilan
+## A Tool by Kabilan
 
 
 
