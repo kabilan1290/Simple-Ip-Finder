@@ -39,7 +39,7 @@ elif (a==2):
     except socket.gaierror:
         print("Invalid Hostname " +c)
 elif (a==3):
-	d =raw_input("Enter the Directory name(/root/Desktop/domainnames)\n")
+	d =input("Enter the Directory name(/root/Desktop/domainnames)\n")
 	mak =[]
 	with open(d) as f:
             for line in f:
